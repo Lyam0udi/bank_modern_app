@@ -8,6 +8,6 @@
 
 Showcase application made in React & Tailwind CSS
 
-#### Only an application of a course of "JavaScript Mastery"
+#### Only an application of a course of "JavaScript Mastery" in order to get familiar with reactJS and TailwindCSS
 ##### For more details visit : "https://www.youtube.com/watch?v=F627pKNUCVQ"
 ##### Link of the App : https://hoooobank.netlify.app/
